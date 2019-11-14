@@ -1,0 +1,102 @@
+td {
+	text-align: left;
+	vertical-align: top;
+	font-family:Tahoma, Arial, Helvetica, sans-serif;
+	font-size:11px;
+	color:#6B4702;
+}
+form
+{
+	margin:0px;
+}
+a
+{
+	color:#6B4702;
+	text-decoration:underline;
+}
+a:hover
+{
+	color:#6B4702;
+	text-decoration:none;
+}
+a.none
+{
+	color:#6B4702;
+	text-decoration:none;
+}
+a.none:hover
+{
+	color:#6B4702;
+	text-decoration:underline;
+}
+.brown
+{
+	color:#B67902;
+	font-weight:bold;
+}
+.blue
+{
+	color:#028BD1;
+	font-weight:bold;
+}
+a.blue
+{
+	color:#028BD1;
+	text-decoration:underline;
+}
+a.blue:hover
+{
+	color:#028BD1;
+	text-decoration:none;
+}
+.dark
+{
+	color:#027FAB;
+}
+a.dark
+{
+	color:#027FAB;
+	font-weight:bold;	
+	text-decoration:underline;
+}
+a.dark:hover
+{
+	color:#027FAB;
+	font-weight:bold;	
+	text-decoration:none;
+}
+.white
+{
+	color:#FEFEFE;
+	font-weight:bold;
+}
+.copy
+{
+	color:#8D8D8D;
+	font-size:10px;
+}
+a.copy
+{
+	color:#8D8D8D;
+	text-decoration:none;
+}
+a.copy:hover
+{
+	color:#8D8D8D;
+	text-decoration:underline;
+}
+.menu
+{
+	color:#8D8D8D;
+	text-transform:uppercase;
+}
+a.menu
+{
+	color:#8D8D8D;
+	text-decoration:none;
+}
+a.menu:hover
+{
+	color:#8D8D8D;
+	text-decoration:underline;
+}
